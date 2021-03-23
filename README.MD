@@ -9,6 +9,7 @@ All of the features in the `required features` must be implemented. Choose items
 * API Server
 * TypeScript
 * Any kind of persistent database
+* Dockerizing
 
 ### Model: Column
 * Fields: ID, Name, Order
@@ -27,8 +28,7 @@ All of the features in the `required features` must be implemented. Choose items
 * User can change card ordering
 * User can archive card
 
-## Advanced features
+## Advanced features (not required)
 
 * Test codes
 * Graceful error handling
-* Dockerizing
