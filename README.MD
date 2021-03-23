@@ -30,10 +30,3 @@ All of the features in the `required features` must be implemented. Choose items
 
 * Test codes
 * Graceful error handling
-
-### GraphQL
-* if implement with GraphQL, you don't need implement restful API
-* Type-graphql
-
-### PostgreSQL
-* TypeORM
