@@ -6,14 +6,15 @@ This project is a Kanban Board back-end implementation. Implement it according t
 All of the features in the `required features` must be implemented. Choose items you want to add from `advanced features` and implement as many as possible. Focus on implementing the function rather than making it beautiful.
 
 ## Required features
+* API Server
 * TypeScript
-* Restful API
+* Any kind of persistent database
 
 ### Model: Column
-* Required fields: ID, Name, Order
+* Fields: ID, Name, Order
 
 ### Model: Card
-* Required fields: ID, Column ID, Name, Description, Created date, Status(Open, Closed), Order
+* Fields: ID, Column ID, Name, Description, Created date, Updated date, Labels, Order
 
 ### User(front-end) Stories
 * User can add column with name
@@ -30,3 +31,4 @@ All of the features in the `required features` must be implemented. Choose items
 
 * Test codes
 * Graceful error handling
+* Dockerizing
