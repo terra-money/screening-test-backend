@@ -15,7 +15,7 @@ All of the features in the `required features` must be implemented. Choose items
 * Fields: ID, Name, Order
 
 ### Model: Card
-* Fields: ID, Column ID, Name, Description, Created date, Updated date, Labels, Order
+* Fields: ID, Column ID, Name, Description, Created date, Updated date, Order, Status(for archiving)
 
 ### User(front-end) Stories
 * User can add column with name
