@@ -29,6 +29,9 @@ All of the features in the `required features` must be implemented. Choose items
 * User can archive card
 
 ## Advanced features (not required)
-
 * Test codes
 * Graceful error handling
+
+## FAQ
+* Frontend implementation not mandatory
+* Highly recommend creating testable methods using Postman / Paw / CLI
